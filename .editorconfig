@@ -1,0 +1,12 @@
+# EditorConfig is awesome: https://EditorConfig.org
+
+# top-most EditorConfig file
+root = true
+
+[*]
+charset = utf-8
+indent_style = space
+end_of_line = crlf
+indent_size = 2
+trim_trailing_whitespace = false
+insert_final_newline = false
